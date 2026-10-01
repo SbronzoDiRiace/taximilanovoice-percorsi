@@ -1,6 +1,7 @@
 {
   "id": "percorso_cerchia_bastioni",
   "titolo": "Cerchia dei Bastioni",
+  "categoria": "Cerchie",
   "tappe": [
     {
       "numero": 1,

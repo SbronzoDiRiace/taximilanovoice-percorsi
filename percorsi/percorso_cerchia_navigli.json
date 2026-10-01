@@ -1,6 +1,7 @@
 {
   "id": "percorso_cerchia_navigli",
   "titolo": "Cerchia dei Navigli",
+  "categoria": "Cerchie",
   "tappe": [
     {
       "numero": 1,

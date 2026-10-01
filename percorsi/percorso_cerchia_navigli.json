@@ -1,0 +1,190 @@
+{
+  "id": "percorso_cerchia_navigli",
+  "titolo": "Cerchia dei Navigli",
+  "tappe": [
+    {
+      "numero": 1,
+      "domanda": "Da dove parte questo percorso?",
+      "rispostaCorretta": "Piazza Cadorna",
+      "sinonimi": [ "Cadorna", "Piazzale Cadorna" ],
+      "nota": "Zona sempre trafficata per la vicinanza alla stazione, con tram e taxi in sosta: attenzione ai pedoni che attraversano di fretta.",
+      "descrizione": "Si parte da piazza Cadorna e ci si immette su via Carducci, percorrendola verso largo Paolo d'Ancona."
+    },
+    {
+      "numero": 2,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Via Carducci",
+      "sinonimi": [ "Carducci" ],
+      "nota": "Strada con parcheggi su ambo i lati e spesso auto in doppia fila: mantenersi centrali e attenti alle portiere che si aprono.",
+      "descrizione": "Da qui si continua dritto su via Carducci fino a raggiungere largo Paolo d'Ancona."
+    },
+    {
+      "numero": 3,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Largo Paolo d'Ancona",
+      "sinonimi": [ "Largo d'Ancona", "Largo Ancona" ],
+      "nota": "Piccolo largo con incrocio regolato da semaforo: rallentare in prossimità dell'attraversamento pedonale.",
+      "descrizione": "Da largo Paolo d'Ancona si rientra su via Carducci, proseguendo in direzione di via Olona."
+    },
+    {
+      "numero": 4,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Via Carducci (fino a via olona)",
+      "sinonimi": [ "Carducci" ],
+      "nota": "Tratto con possibile presenza di lavori in corso o cantieri temporanei: verificare sempre la segnaletica.",
+      "descrizione": "Si continua ancora su via Carducci, tenendo la direzione fino all'altezza di via Olona, dove si svolta per immettersi su via de Amicis."
+    },
+    {
+      "numero": 5,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Via de Amicis",
+      "sinonimi": [ "De Amicis" ],
+      "nota": "Via con negozi e locali e marciapiedi stretti: attenzione a pedoni e biciclette.",
+      "descrizione": "Si percorre via de Amicis in direzione della piazza successiva."
+    },
+    {
+      "numero": 6,
+      "domanda": "Una volta qui, come continua il tragitto?",
+      "rispostaCorretta": "Piazza Resistenza Partigiana",
+      "sinonimi": [ "Piazza della Resistenza Partigiana", "Resistenza Partigiana" ],
+      "nota": "Piazza con passaggio di tram: dare sempre precedenza ai mezzi pubblici in svolta.",
+      "descrizione": "Attraversata la piazza, si rientra su via De Amicis, proseguendo verso il corso successivo."
+    },
+    {
+      "numero": 7,
+      "domanda": "Da qui, come prosegue il percorso?",
+      "rispostaCorretta": "Via De Amicis (fino a Corso di Porta Ticinese)",
+      "sinonimi": [ "De Amicis" ],
+      "nota": "Tratto soggetto a limitazioni ZTL in alcune fasce orarie: verificare sempre gli orari prima di imboccarlo.",
+      "descrizione": "Si prosegue su via De Amicis fino all'incrocio con il corso, dove si continua dritto per immettersi sulla via successiva."
+    },
+    {
+      "numero": 8,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Via Molino delle Armi (fino a Corso Italia)",
+      "sinonimi": [ "Molino delle Armi" ],
+      "nota": "Strada stretta con sosta selvaggia frequente: procedere a velocità ridotta.",
+      "descrizione": "Si percorre questa via fino al corso successivo, mantenendo la corsia di destra in vista della prossima svolta."
+    },
+    {
+      "numero": 9,
+      "domanda": "Una volta arrivato qui, come si prosegue?",
+      "rispostaCorretta": "Via Santa Sofia (fino a corso di Porta Romana)",
+      "sinonimi": [ "Santa Sofia" ],
+      "nota": "Zona con traffico intenso nelle ore di punta per la vicinanza a un importante polo ospedaliero: mantenere prudenza.",
+      "descrizione": "Si continua su questa via fino al corso indicato, dove si prosegue dritti sulla via successiva."
+    },
+    {
+      "numero": 10,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Via Francesco Sforza (fino a via Cesare Battisti)",
+      "sinonimi": [ "Francesco Sforza", "Sforza" ],
+      "nota": "Via con presenza di uffici e strutture pubbliche, quindi pedoni spesso distratti: attenzione soprattutto negli orari di punta.",
+      "descrizione": "Superato il corso, si continua su questa via fino alla traversa indicata, dove si svolta per proseguire il tragitto."
+    },
+    {
+      "numero": 11,
+      "domanda": "Da qui, come continua il percorso?",
+      "rispostaCorretta": "Via Visconti di Modrone (fino a corso Monforte)",
+      "sinonimi": [ "Visconti di Modrone", "Modrone" ],
+      "nota": "Strada con parcheggi a pagamento: attenzione alle auto che escono dai passi carrai.",
+      "descrizione": "Si prosegue su questa via fino al corso indicato, dove si continua sulla via successiva."
+    },
+    {
+      "numero": 12,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Via San Damiano (fino a Corso Venezia)",
+      "sinonimi": [ "San Damiano" ],
+      "nota": "Via elegante con negozi di lusso, spesso interessata da mezzi di carico e scarico: attenzione ai furgoni in sosta.",
+      "descrizione": "Oltrepassato il corso precedente, si continua su questa via fino a corso Venezia, dove si prosegue dritti."
+    },
+    {
+      "numero": 13,
+      "domanda": "Una volta qui, come si continua?",
+      "rispostaCorretta": "Via Senato",
+      "sinonimi": [ "Senato" ],
+      "nota": "Via ampia e scorrevole ma con binari del tram: attenzione soprattutto con il fondo bagnato.",
+      "descrizione": "Attraversato il corso, si prosegue dritti su questa via fino alla piazza successiva."
+    },
+    {
+      "numero": 14,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Piazza Cavour",
+      "sinonimi": [ "Cavour" ],
+      "nota": "Piazza con più corsie di traffico: prestare attenzione agli attraversamenti pedonali.",
+      "descrizione": "La via conduce fino a questa piazza, dove si continua il tragitto verso la strada successiva."
+    },
+    {
+      "numero": 15,
+      "domanda": "Da qui, come continua il tragitto?",
+      "rispostaCorretta": "Via Fatebenefratelli",
+      "sinonimi": [ "Fatebenefratelli" ],
+      "nota": "Via con presenza di uffici pubblici e possibile passaggio di veicoli con priorità: mantenere prudenza.",
+      "descrizione": "Dalla piazza si imbocca questa via, seguendola fino alla piazza successiva."
+    },
+    {
+      "numero": 16,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Piazza San Marco",
+      "sinonimi": [ "San Marco" ],
+      "nota": "Piazza raccolta con possibile affluenza pedonale nei giorni festivi: prestare attenzione.",
+      "descrizione": "La via porta fino a questa piazza, da cui si prosegue sulla via successiva."
+    },
+    {
+      "numero": 17,
+      "domanda": "Una volta arrivato qui, come si continua?",
+      "rispostaCorretta": "Via Pontaccio (fino a corso Garibaldi)",
+      "sinonimi": [ "Pontaccio" ],
+      "nota": "Strada con negozi e locali, spesso frequentata da pedoni a piedi: procedere con cautela.",
+      "descrizione": "Dalla piazza si continua su questa via fino al corso indicato, dove si prosegue sulla via successiva."
+    },
+    {
+      "numero": 18,
+      "domanda": "Come prosegue il tragitto da qui?",
+      "rispostaCorretta": "Via Tivoli",
+      "sinonimi": [ "Tivoli" ],
+      "nota": "Via stretta a doppio senso: attenzione alle auto in senso opposto nei tratti più stretti.",
+      "descrizione": "Superato il corso, si prosegue su questa via in direzione del largo successivo."
+    },
+    {
+      "numero": 19,
+      "domanda": "Da qui, come continua il percorso?",
+      "rispostaCorretta": "Largo Greppi",
+      "sinonimi": [ "Greppi" ],
+      "nota": "Largo con incroci multipli: rallentare per dare correttamente la precedenza.",
+      "descrizione": "La via conduce fino a questo largo, da cui si prosegue sul viale successivo."
+    },
+    {
+      "numero": 20,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Foro Bonaparte (numeri Pari)",
+      "sinonimi": [ "Foro Bonaparte lato pari", "Foro Bonaparte numeri pari" ],
+      "nota": "Ampio viale con doppia carreggiata: mantenersi sul lato indicato e attenzione alle auto che svoltano.",
+      "descrizione": "Dal largo si entra su questo ampio viale, percorrendo il lato indicato in direzione del largo successivo."
+    },
+    {
+      "numero": 21,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Largo Cairoli con Largo Maria Callas",
+      "sinonimi": [ "Largo Cairoli", "Cairoli", "Largo Maria Callas" ],
+      "nota": "Largo molto frequentato da turisti e pedoni: massima attenzione ai pedoni distratti.",
+      "descrizione": "Il viale conduce fino a questo largo, da cui si rientra sul viale precedente, questa volta sul lato opposto."
+    },
+    {
+      "numero": 22,
+      "domanda": "Da qui, come prosegue il tragitto?",
+      "rispostaCorretta": "Foro Bonaparte (numeri dispari)",
+      "sinonimi": [ "Foro Bonaparte lato dispari", "Foro Bonaparte numeri dispari" ],
+      "nota": "Stesso viale ampio ma sul lato opposto: attenzione al traffico proveniente dall'incrocio precedente.",
+      "descrizione": "Dal largo si rientra su questo viale, percorrendo il lato indicato fino a chiudere il giro."
+    },
+    {
+      "numero": 23,
+      "domanda": "Come finisce il percorso?",
+      "rispostaCorretta": "Piazza Cadorna",
+      "sinonimi": [ "Cadorna", "Piazzale Cadorna" ],
+      "nota": "Area con forte presenza di taxi e mezzi pubblici: procedere con attenzione nelle manovre finali.",
+      "descrizione": "Il viale riporta infine a questa piazza, punto di arrivo del percorso."
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "percorso_cerchia_bastioni",
+  "titolo": "Cerchia dei Bastioni",
+  "tappe": [
+    {
+      "numero": 1,
+      "domanda": "Da dove parte questo percorso?",
+      "rispostaCorretta": "Piazzale Baracca (porta Vercellina)",
+      "sinonimi": [ "Piazzale Baracca", "Porta Vercellina" ],
+      "nota": "Piazzale ampio con rotatoria e più corsie: attenzione alle auto che si immettono da più direzioni.",
+      "descrizione": "Si parte da questo piazzale, imboccando il viale in direzione del piazzale successivo."
+    },
+    {
+      "numero": 2,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale di Porta Vercellina",
+      "sinonimi": [ "Porta Vercellina" ],
+      "nota": "Viale alberato con corsie separate: mantenere una velocità moderata per via degli attraversamenti pedonali.",
+      "descrizione": "Si percorre questo viale fino al piazzale successivo."
+    },
+    {
+      "numero": 3,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Piazzale Aquileia",
+      "sinonimi": [ "Aquileia" ],
+      "nota": "Piazzale con incrocio regolato da semaforo: rallentare in prossimità dell'attraversamento.",
+      "descrizione": "Dal piazzale si prosegue sul viale successivo, mantenendo la direzione del giro."
+    },
+    {
+      "numero": 4,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Viale Papiniano",
+      "sinonimi": [ "Papiniano" ],
+      "nota": "Viale spesso interessato dal mercato: attenzione a bancarelle e pedoni nei giorni di mercato.",
+      "descrizione": "Si percorre questo viale in direzione della piazza successiva."
+    },
+    {
+      "numero": 5,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Piazza Sant'Agostino",
+      "sinonimi": [ "Sant'Agostino" ],
+      "nota": "Piazza con fermata della metropolitana: attenzione ai pedoni che escono frettolosamente.",
+      "descrizione": "Dalla piazza si rientra sul viale precedente, proseguendo il giro."
+    },
+    {
+      "numero": 6,
+      "domanda": "Una volta qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Papiniano",
+      "sinonimi": [ "Papiniano" ],
+      "nota": "Tratto con possibile sosta selvaggia: procedere con prudenza.",
+      "descrizione": "Si continua su questo viale fino al piazzale successivo."
+    },
+    {
+      "numero": 7,
+      "domanda": "Da qui, come prosegue il percorso?",
+      "rispostaCorretta": "Piazzale Generale Cantore (porta Genova)",
+      "sinonimi": [ "Piazzale Generale Cantore", "Porta Genova" ],
+      "nota": "Zona con traffico intenso per la vicinanza alla stazione ferroviaria: mantenere prudenza.",
+      "descrizione": "Dal piazzale si imbocca il viale successivo, proseguendo il giro dei bastioni."
+    },
+    {
+      "numero": 8,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Gabriele D'Annunzio",
+      "sinonimi": [ "Viale D'Annunzio" ],
+      "nota": "Viale ampio con più corsie: attenzione ai cambi di corsia dei veicoli in prossimità degli incroci.",
+      "descrizione": "Si percorre questo viale fino alla piazza successiva."
+    },
+    {
+      "numero": 9,
+      "domanda": "Una volta arrivato qui, come si prosegue?",
+      "rispostaCorretta": "Piazza 24 Maggio (Porta Ticinese)",
+      "sinonimi": [ "Piazza 24 Maggio", "Porta Ticinese" ],
+      "nota": "Piazza con presenza di locali e forte affluenza pedonale nelle sere: attenzione anche ai ciclisti.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 10,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale Gian Galeazzo",
+      "sinonimi": [ "Gian Galeazzo" ],
+      "nota": "Viale con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Si percorre questo viale fino al piazzale successivo."
+    },
+    {
+      "numero": 11,
+      "domanda": "Da qui, come continua il percorso?",
+      "rispostaCorretta": "Piazzale di Porta Ludovica (porta Ludovica)",
+      "sinonimi": [ "Piazzale Porta Ludovica", "Porta Ludovica" ],
+      "nota": "Piazzale con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dal piazzale si prosegue sul viale successivo, mantenendo la direzione del giro."
+    },
+    {
+      "numero": 12,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Beatrice D'Este",
+      "sinonimi": [ "Beatrice D'Este" ],
+      "nota": "Viale alberato con parcheggi laterali: attenzione alle auto in manovra di parcheggio.",
+      "descrizione": "Si percorre questo viale fino al largo successivo."
+    },
+    {
+      "numero": 13,
+      "domanda": "Una volta qui, come si continua?",
+      "rispostaCorretta": "Largo Isabella D'Aragona",
+      "sinonimi": [ "Isabella D'Aragona" ],
+      "nota": "Largo con incrocio regolato da semaforo: rallentare in prossimità dell'attraversamento pedonale.",
+      "descrizione": "Dal largo si rientra sul viale precedente, proseguendo verso porta Vigentina."
+    },
+    {
+      "numero": 14,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale Beatrice D'Este (fino a porta Vigentina)",
+      "sinonimi": [ "Beatrice D'Este" ],
+      "nota": "Tratto con presenza di scuole nelle vicinanze: attenzione ai pedoni negli orari di entrata e uscita.",
+      "descrizione": "Si continua su questo viale fino a porta Vigentina, dove si prosegue sul viale successivo."
+    },
+    {
+      "numero": 15,
+      "domanda": "Da qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Filippetti",
+      "sinonimi": [ "Filippetti" ],
+      "nota": "Viale con corsie separate da spartitraffico: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Si percorre questo viale fino alla piazza successiva."
+    },
+    {
+      "numero": 16,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Piazza Medaglie D'Oro (porta Romana)",
+      "sinonimi": [ "Piazza Medaglie D'Oro", "Porta Romana" ],
+      "nota": "Piazza molto trafficata per la vicinanza a un importante snodo cittadino: mantenere prudenza.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro dei bastioni."
+    },
+    {
+      "numero": 17,
+      "domanda": "Una volta arrivato qui, come si prosegue?",
+      "rispostaCorretta": "Viale Caldara (fino a viale la Marmora)",
+      "sinonimi": [ "Caldara" ],
+      "nota": "Viale ampio con traffico scorrevole: attenzione ai cambi di corsia in prossimità dell'incrocio.",
+      "descrizione": "Si percorre questo viale fino all'incrocio indicato, dove si continua sul viale successivo."
+    },
+    {
+      "numero": 18,
+      "domanda": "Come continua il percorso da qui?",
+      "rispostaCorretta": "Viale Regina Margherita",
+      "sinonimi": [ "Regina Margherita" ],
+      "nota": "Viale con corsie tranviarie e traffico sostenuto: attenzione ai binari e ai mezzi pubblici.",
+      "descrizione": "Si percorre questo viale fino alla piazza successiva."
+    },
+    {
+      "numero": 19,
+      "domanda": "Da qui, come prosegue il tragitto?",
+      "rispostaCorretta": "Piazza 5 Giornate (porta Vittoria)",
+      "sinonimi": [ "Piazza Cinque Giornate", "Porta Vittoria" ],
+      "nota": "Piazza monumentale con più corsie e traffico intenso: prestare attenzione agli attraversamenti pedonali.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 20,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Viale Bianca Maria",
+      "sinonimi": [ "Bianca Maria" ],
+      "nota": "Viale con parcheggi laterali e traffico moderato: attenzione alle auto in manovra.",
+      "descrizione": "Si percorre questo viale fino alla piazza successiva."
+    },
+    {
+      "numero": 21,
+      "domanda": "Una volta qui, come continua il tragitto?",
+      "rispostaCorretta": "Piazza Del Tricolore (Porta Monforte)",
+      "sinonimi": [ "Piazza del Tricolore", "Porta Monforte" ],
+      "nota": "Piazza con giardini centrali e traffico su più corsie: mantenere prudenza negli attraversamenti.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 22,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Viale Majno",
+      "sinonimi": [ "Majno" ],
+      "nota": "Viale elegante con negozi: attenzione ai furgoni per carico e scarico in sosta.",
+      "descrizione": "Si percorre questo viale fino alla piazza successiva."
+    },
+    {
+      "numero": 23,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Piazza Oberdan (Porta Venezia)",
+      "sinonimi": [ "Piazza Oberdan", "Porta Venezia" ],
+      "nota": "Piazza molto trafficata con fermata della metropolitana: attenzione ai pedoni e ai mezzi pubblici.",
+      "descrizione": "Dalla piazza si prosegue sui bastioni successivi, continuando il giro."
+    },
+    {
+      "numero": 24,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Bastioni di Porta Venezia",
+      "sinonimi": [ "Bastioni Porta Venezia" ],
+      "nota": "Tratto ampio e scorrevole ma con più corsie: mantenere la corsia corretta in base alla direzione.",
+      "descrizione": "Si percorrono questi bastioni fino al viale successivo."
+    },
+    {
+      "numero": 25,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Viale Città di Fiume",
+      "sinonimi": [ "Città di Fiume" ],
+      "nota": "Viale con traffico scorrevole ma vicino a un parco frequentato: attenzione ai pedoni.",
+      "descrizione": "Si percorre questo viale fino alla piazza successiva."
+    },
+    {
+      "numero": 26,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Piazza della Repubblica",
+      "sinonimi": [ "Piazza Repubblica" ],
+      "nota": "Piazza molto ampia con più corsie e rotatoria: prestare attenzione ai cambi di corsia degli altri veicoli.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 27,
+      "domanda": "Come prosegue il tragitto da qui?",
+      "rispostaCorretta": "Viale Monte Santo",
+      "sinonimi": [ "Monte Santo" ],
+      "nota": "Viale con traffico sostenuto in prossimità di un importante snodo ferroviario: mantenere prudenza.",
+      "descrizione": "Si percorre questo viale fino al piazzale successivo."
+    },
+    {
+      "numero": 28,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Piazzale Principessa Clotilde (porta Nuova)",
+      "sinonimi": [ "Piazzale Principessa Clotilde", "Porta Nuova" ],
+      "nota": "Piazzale con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dal piazzale si prosegue sui bastioni successivi, continuando il giro."
+    },
+    {
+      "numero": 29,
+      "domanda": "Da qui, come prosegue il tragitto?",
+      "rispostaCorretta": "Bastioni di Porta Nuova",
+      "sinonimi": [ "Bastioni Porta Nuova" ],
+      "nota": "Tratto ampio con più corsie: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Si percorrono questi bastioni fino alla piazza successiva."
+    },
+    {
+      "numero": 30,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Piazza 25 Aprile (porta Garibaldi)",
+      "sinonimi": [ "Piazza 25 Aprile", "Porta Garibaldi" ],
+      "nota": "Piazza molto trafficata per la vicinanza alla stazione: attenzione a pedoni e ciclisti.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 31,
+      "domanda": "Una volta arrivato qui, come si prosegue?",
+      "rispostaCorretta": "Viale Crispi",
+      "sinonimi": [ "Crispi" ],
+      "nota": "Viale con traffico scorrevole ma con parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Si percorre questo viale fino al piazzale successivo."
+    },
+    {
+      "numero": 32,
+      "domanda": "Come prosegue il tragitto da qui?",
+      "rispostaCorretta": "Piazzale Baiamonti (porta Volta)",
+      "sinonimi": [ "Piazzale Baiamonti", "Porta Volta" ],
+      "nota": "Piazzale con incrocio regolato da semaforo: rallentare in prossimità dell'attraversamento.",
+      "descrizione": "Dal piazzale si prosegue sui bastioni successivi, continuando il giro."
+    },
+    {
+      "numero": 33,
+      "domanda": "Da qui, come continua il percorso?",
+      "rispostaCorretta": "Bastioni di Porta Volta",
+      "sinonimi": [ "Bastioni Porta Volta" ],
+      "nota": "Tratto ampio con più corsie: mantenere la corsia corretta in base alla direzione da seguire.",
+      "descrizione": "Si percorrono questi bastioni fino al piazzale successivo."
+    },
+    {
+      "numero": 34,
+      "domanda": "Come prosegue il percorso a questo punto?",
+      "rispostaCorretta": "Piazzale Biancamano con Piazza Lega Lombarda (porta Tenaglia)",
+      "sinonimi": [ "Piazzale Biancamano", "Piazza Lega Lombarda", "Porta Tenaglia" ],
+      "nota": "Piazzale ampio con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dal piazzale si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 35,
+      "domanda": "Una volta qui, come si continua?",
+      "rispostaCorretta": "Viale Elvezia",
+      "sinonimi": [ "Elvezia" ],
+      "nota": "Viale con vista su un noto parco cittadino: attenzione ai pedoni e ai ciclisti nei pressi degli ingressi.",
+      "descrizione": "Si percorre questo viale fino alla via successiva."
+    },
+    {
+      "numero": 36,
+      "domanda": "Da qui, come prosegue il tragitto?",
+      "rispostaCorretta": "Via Douhet",
+      "sinonimi": [ "Douhet" ],
+      "nota": "Via con traffico moderato ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Si percorre questa via fino alla via successiva."
+    },
+    {
+      "numero": 37,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Via Melzi D'Eril (porta Sempione)",
+      "sinonimi": [ "Via Melzi D'Eril", "Porta Sempione" ],
+      "nota": "Via nei pressi di un importante arco monumentale, spesso frequentata da turisti a piedi: procedere con cautela.",
+      "descrizione": "Si percorre questa via fino alla via successiva."
+    },
+    {
+      "numero": 38,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Via Canova",
+      "sinonimi": [ "Canova" ],
+      "nota": "Via con traffico scorrevole ma parcheggi frequenti: attenzione alle portiere che si aprono.",
+      "descrizione": "Si percorre questa via fino al viale successivo."
+    },
+    {
+      "numero": 39,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Milton",
+      "sinonimi": [ "Milton" ],
+      "nota": "Viale con traffico moderato: attenzione agli attraversamenti pedonali non semaforizzati.",
+      "descrizione": "Si percorre questo viale fino alla via successiva."
+    },
+    {
+      "numero": 40,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Via Moliere",
+      "sinonimi": [ "Molière" ],
+      "nota": "Via residenziale con parcheggi laterali: attenzione alle auto che escono dai passi carrai.",
+      "descrizione": "Si percorre questa via fino al viale successivo."
+    },
+    {
+      "numero": 41,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale Curie",
+      "sinonimi": [ "Curie" ],
+      "nota": "Viale con traffico scorrevole: mantenere attenzione agli incroci laterali.",
+      "descrizione": "Si percorre questo viale fino alla via successiva."
+    },
+    {
+      "numero": 42,
+      "domanda": "Una volta qui, come continua il tragitto?",
+      "rispostaCorretta": "Via 20 Settembre",
+      "sinonimi": [ "Via Venti Settembre" ],
+      "nota": "Via con traffico moderato e parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Si percorre questa via fino alla piazza successiva."
+    },
+    {
+      "numero": 43,
+      "domanda": "Da qui, come prosegue il percorso?",
+      "rispostaCorretta": "Piazza Conciliazione",
+      "sinonimi": [ "Conciliazione" ],
+      "nota": "Piazza con incrocio regolato da semaforo: rallentare in prossimità dell'attraversamento pedonale.",
+      "descrizione": "Dalla piazza si prosegue sulla via successiva, avvicinandosi al punto di partenza."
+    },
+    {
+      "numero": 44,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Via Toti",
+      "sinonimi": [ "Toti" ],
+      "nota": "Via residenziale con traffico moderato: attenzione alle auto in manovra di parcheggio.",
+      "descrizione": "Si percorre questa via fino al piazzale di partenza, chiudendo il giro dei bastioni."
+    },
+    {
+      "numero": 45,
+      "domanda": "Come finisce il percorso?",
+      "rispostaCorretta": "Piazzale Baracca",
+      "sinonimi": [ "Piazzale Baracca", "Porta Vercellina" ],
+      "nota": "Piazzale ampio con rotatoria e più corsie: procedere con attenzione nelle manovre finali.",
+      "descrizione": "La via riporta infine a questo piazzale, punto di arrivo del percorso."
+    }
+  ]
+}

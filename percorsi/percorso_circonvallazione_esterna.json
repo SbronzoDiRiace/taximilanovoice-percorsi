@@ -1,0 +1,470 @@
+{
+  "id": "percorso_circonvallazione_esterna",
+  "titolo": "Circonvallazione Esterna",
+  "tappe": [
+    {
+      "numero": 1,
+      "domanda": "Da dove parte questo percorso?",
+      "rispostaCorretta": "Piazzale Lotto",
+      "sinonimi": [ "Lotto", "Piazzale Lotto" ],
+      "nota": "Piazza con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Si parte da questo punto e ci si immette sul viale successivo."
+    },
+    {
+      "numero": 2,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale Migliaria",
+      "sinonimi": [ "Migliaria", "Viale Migliaria" ],
+      "nota": "Viale ampio con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 3,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Piazzale Zavattari",
+      "sinonimi": [ "Zavattari", "Piazzale Zavattari" ],
+      "nota": "Piazza trafficata con attraversamenti pedonali: rallentare e prestare attenzione ai pedoni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 4,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Viale Murillo",
+      "sinonimi": [ "Murillo", "Viale Murillo" ],
+      "nota": "Viale con traffico scorrevole ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 5,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Piazzale Brescia",
+      "sinonimi": [ "Brescia", "Piazzale Brescia" ],
+      "nota": "Piazza con rotatoria e più corsie: attenzione alle auto che si immettono da più direzioni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 6,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Viale Ranzoni",
+      "sinonimi": [ "Ranzoni", "Viale Ranzoni" ],
+      "nota": "Viale con più corsie e traffico sostenuto: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 7,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Piazza del Ghirlandaio",
+      "sinonimi": [ "del Ghirlandaio", "Piazza del Ghirlandaio" ],
+      "nota": "Piazza con fermate di mezzi pubblici: attenzione ai tram e agli autobus in svolta.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 8,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale Egisto Bezzi",
+      "sinonimi": [ "Egisto Bezzi", "Viale Egisto Bezzi" ],
+      "nota": "Viale alberato con attraversamenti pedonali frequenti: prestare attenzione ai pedoni.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 9,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Piazza Tripoli",
+      "sinonimi": [ "Tripoli", "Piazza Tripoli" ],
+      "nota": "Piazza con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 10,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Viale Misurata",
+      "sinonimi": [ "Misurata", "Viale Misurata" ],
+      "nota": "Viale ampio con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 11,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Piazza Bolivar",
+      "sinonimi": [ "Bolivar", "Piazza Bolivar" ],
+      "nota": "Piazza trafficata con attraversamenti pedonali: rallentare e prestare attenzione ai pedoni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 12,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Viale Misurata",
+      "sinonimi": [ "Misurata", "Viale Misurata" ],
+      "nota": "Viale con traffico scorrevole ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 13,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Piazza Napoli",
+      "sinonimi": [ "Napoli", "Piazza Napoli" ],
+      "nota": "Piazza con rotatoria e più corsie: attenzione alle auto che si immettono da più direzioni.",
+      "descrizione": "Dalla piazza si prosegue sulla via successiva, continuando il giro."
+    },
+    {
+      "numero": 14,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Via Carlo Troya",
+      "sinonimi": [ "Carlo Troya", "Via Carlo Troya" ],
+      "nota": "Via con traffico moderato: attenzione ai pedoni che attraversano.",
+      "descrizione": "Dalla via si prosegue sul cavalcavia successivo, continuando il giro."
+    },
+    {
+      "numero": 15,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Cavalcavia delle Milizie",
+      "sinonimi": [ "delle Milizie", "Cavalcavia delle Milizie" ],
+      "nota": "Tratto in sopraelevata con visibilità ridotta nelle curve: mantenere una velocità prudente.",
+      "descrizione": "Dal cavalcavia si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 16,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Viale Cassala",
+      "sinonimi": [ "Cassala", "Viale Cassala" ],
+      "nota": "Viale con più corsie e traffico sostenuto: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Dal viale si prosegue sul largo successivo, continuando il giro."
+    },
+    {
+      "numero": 17,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Largo Ascari",
+      "sinonimi": [ "Ascari", "Largo Ascari" ],
+      "nota": "Largo con incrocio regolato da semaforo: rallentare in prossimità dell'attraversamento pedonale.",
+      "descrizione": "Dal largo si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 18,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Viale Liguria",
+      "sinonimi": [ "Liguria", "Viale Liguria" ],
+      "nota": "Viale alberato con attraversamenti pedonali frequenti: prestare attenzione ai pedoni.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 19,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Piazza Belfanti",
+      "sinonimi": [ "Belfanti", "Piazza Belfanti" ],
+      "nota": "Piazza con fermate di mezzi pubblici: attenzione ai tram e agli autobus in svolta.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 20,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale Liguria (fino a via Ascanio Sforza)",
+      "sinonimi": [ "Liguria", "Viale Liguria" ],
+      "nota": "Viale ampio con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Dal viale si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 21,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Tibaldi",
+      "sinonimi": [ "Tibaldi", "Viale Tibaldi" ],
+      "nota": "Viale con traffico scorrevole ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 22,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Piazza Bibbiena",
+      "sinonimi": [ "Bibbiena", "Piazza Bibbiena" ],
+      "nota": "Piazza con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 23,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Tibaldi (fino a via Carlo Bazzi)",
+      "sinonimi": [ "Tibaldi", "Viale Tibaldi" ],
+      "nota": "Viale con più corsie e traffico sostenuto: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Dal viale si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 24,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Viale Toscana",
+      "sinonimi": [ "Toscana", "Viale Toscana" ],
+      "nota": "Viale alberato con attraversamenti pedonali frequenti: prestare attenzione ai pedoni.",
+      "descrizione": "Dal viale si prosegue sul largo successivo, continuando il giro."
+    },
+    {
+      "numero": 25,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Largo Beethoven",
+      "sinonimi": [ "Beethoven", "Largo Beethoven" ],
+      "nota": "Largo con più corsie e traffico sostenuto: attenzione ai cambi di corsia degli altri veicoli.",
+      "descrizione": "Dal largo si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 26,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Viale Toscana (fino a via Ripamonti)",
+      "sinonimi": [ "Toscana", "Viale Toscana" ],
+      "nota": "Viale ampio con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Dal viale si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 27,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Isonzio",
+      "sinonimi": [ "Isonzio", "Viale Isonzio" ],
+      "nota": "Viale con traffico scorrevole ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 28,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Piazza Trento",
+      "sinonimi": [ "Trento", "Piazza Trento" ],
+      "nota": "Piazza trafficata con attraversamenti pedonali: rallentare e prestare attenzione ai pedoni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 29,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Isonzio",
+      "sinonimi": [ "Isonzio", "Viale Isonzio" ],
+      "nota": "Viale con più corsie e traffico sostenuto: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 30,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Piazzale Lodi",
+      "sinonimi": [ "Lodi", "Piazzale Lodi" ],
+      "nota": "Piazza con rotatoria e più corsie: attenzione alle auto che si immettono da più direzioni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 31,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Umbria",
+      "sinonimi": [ "Umbria", "Viale Umbria" ],
+      "nota": "Viale alberato con attraversamenti pedonali frequenti: prestare attenzione ai pedoni.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 32,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Piazza Cappelli",
+      "sinonimi": [ "Cappelli", "Piazza Cappelli" ],
+      "nota": "Piazza con fermate di mezzi pubblici: attenzione ai tram e agli autobus in svolta.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 33,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Umbria",
+      "sinonimi": [ "Umbria", "Viale Umbria" ],
+      "nota": "Viale ampio con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Dal viale si prosegue sul largo successivo, continuando il giro."
+    },
+    {
+      "numero": 34,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Largo Marinai d'Italia",
+      "sinonimi": [ "Marinai d'Italia", "Largo Marinai d'Italia" ],
+      "nota": "Largo con incrocio regolato da semaforo: rallentare in prossimità dell'attraversamento pedonale.",
+      "descrizione": "Dal largo si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 35,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Umbria",
+      "sinonimi": [ "Umbria", "Viale Umbria" ],
+      "nota": "Viale con traffico scorrevole ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 36,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Piazza Emilia",
+      "sinonimi": [ "Emilia", "Piazza Emilia" ],
+      "nota": "Piazza con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 37,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Piceno",
+      "sinonimi": [ "Piceno", "Viale Piceno" ],
+      "nota": "Viale con più corsie e traffico sostenuto: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 38,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Piazzale Dateo",
+      "sinonimi": [ "Dateo", "Piazzale Dateo" ],
+      "nota": "Piazza trafficata con attraversamenti pedonali: rallentare e prestare attenzione ai pedoni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 39,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale dei mille",
+      "sinonimi": [ "dei mille", "Viale dei mille" ],
+      "nota": "Viale alberato con attraversamenti pedonali frequenti: prestare attenzione ai pedoni.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 40,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "piazza Ascoli",
+      "sinonimi": [ "Ascoli", "piazza Ascoli" ],
+      "nota": "Piazza con rotatoria e più corsie: attenzione alle auto che si immettono da più direzioni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 41,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Abruzzi",
+      "sinonimi": [ "Abruzzi", "Viale Abruzzi" ],
+      "nota": "Viale ampio con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 42,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Piazzale Loreto",
+      "sinonimi": [ "Loreto", "Piazzale Loreto" ],
+      "nota": "Piazza con fermate di mezzi pubblici: attenzione ai tram e agli autobus in svolta.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 43,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Brianza",
+      "sinonimi": [ "Brianza", "Viale Brianza" ],
+      "nota": "Viale con traffico scorrevole ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Dal viale si prosegue nel tratto successivo, continuando il giro."
+    },
+    {
+      "numero": 44,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Tunnel Stazione Centrale",
+      "sinonimi": [ "Stazione Centrale", "Tunnel Stazione Centrale" ],
+      "nota": "Tratto in galleria con visibilità ridotta: mantenere i fari accesi e una velocità moderata.",
+      "descrizione": "Dal tratto in galleria si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 45,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Lunigiana",
+      "sinonimi": [ "Lunigiana", "Viale Lunigiana" ],
+      "nota": "Viale con più corsie e traffico sostenuto: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Dal viale si prosegue sul cavalcavia successivo, continuando il giro."
+    },
+    {
+      "numero": 46,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Cavalcavia Carbonari (su piazza carbonari)",
+      "sinonimi": [ "Carbonari", "Cavalcavia Carbonari" ],
+      "nota": "Cavalcavia con traffico spesso incolonnato nelle ore di punta: mantenere le distanze di sicurezza.",
+      "descrizione": "Dal cavalcavia si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 47,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Marche",
+      "sinonimi": [ "Marche", "Viale Marche" ],
+      "nota": "Viale alberato con attraversamenti pedonali frequenti: prestare attenzione ai pedoni.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 48,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Piazzale Maciachini",
+      "sinonimi": [ "Maciachini", "Piazzale Maciachini" ],
+      "nota": "Piazza con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 49,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Viale Jenner",
+      "sinonimi": [ "Jenner", "Viale Jenner" ],
+      "nota": "Viale ampio con corsie tranviarie: attenzione ai binari, specie con fondo bagnato.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 50,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Piazzale Nigra",
+      "sinonimi": [ "Nigra", "Piazzale Nigra" ],
+      "nota": "Piazza trafficata con attraversamenti pedonali: rallentare e prestare attenzione ai pedoni.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 51,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Bodio",
+      "sinonimi": [ "Bodio", "Viale Bodio" ],
+      "nota": "Viale con traffico scorrevole ma parcheggi laterali: attenzione alle auto in manovra.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 52,
+      "domanda": "Da qui, come si continua?",
+      "rispostaCorretta": "Piazzale Lugano",
+      "sinonimi": [ "Lugano", "Piazzale Lugano" ],
+      "nota": "Piazza con rotatoria e più corsie: attenzione alle auto che si immettono da più direzioni.",
+      "descrizione": "Dalla piazza si prosegue sul cavalcavia successivo, continuando il giro."
+    },
+    {
+      "numero": 53,
+      "domanda": "Come continua il tragitto a questo punto?",
+      "rispostaCorretta": "Cavalcavia Bacula (ex ponte della Ghisolfa)",
+      "sinonimi": [ "Bacula", "Cavalcavia Bacula" ],
+      "nota": "Tratto in sopraelevata con visibilità ridotta nelle curve: mantenere una velocità prudente.",
+      "descrizione": "Dal cavalcavia si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 54,
+      "domanda": "Una volta qui, come continua il percorso?",
+      "rispostaCorretta": "Viale Monte Ceneri (fino a viale certosa)",
+      "sinonimi": [ "Monte Ceneri", "Viale Monte Ceneri" ],
+      "nota": "Viale con più corsie e traffico sostenuto: mantenere la corsia corretta in prossimità degli incroci.",
+      "descrizione": "Dal viale si prosegue sulla via successiva, continuando il giro."
+    },
+    {
+      "numero": 55,
+      "domanda": "Come prosegue il tragitto a questo punto?",
+      "rispostaCorretta": "Via Renato Serra",
+      "sinonimi": [ "Renato Serra", "Via Renato Serra" ],
+      "nota": "Via con parcheggi laterali: attenzione alle auto in manovra o che escono dai passi carrai.",
+      "descrizione": "Dalla via si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 56,
+      "domanda": "Come prosegue il percorso da qui?",
+      "rispostaCorretta": "Piazza Stuparich",
+      "sinonimi": [ "Stuparich", "Piazza Stuparich" ],
+      "nota": "Piazza con fermate di mezzi pubblici: attenzione ai tram e agli autobus in svolta.",
+      "descrizione": "Dalla piazza si prosegue sul viale successivo, continuando il giro."
+    },
+    {
+      "numero": 57,
+      "domanda": "Una volta arrivato qui, come continua il tragitto?",
+      "rispostaCorretta": "Viale Elia",
+      "sinonimi": [ "Elia", "Viale Elia" ],
+      "nota": "Viale alberato con attraversamenti pedonali frequenti: prestare attenzione ai pedoni.",
+      "descrizione": "Dal viale si prosegue sulla piazza successiva, continuando il giro."
+    },
+    {
+      "numero": 58,
+      "domanda": "Come finisce il percorso?",
+      "rispostaCorretta": "Piazzale Lotto",
+      "sinonimi": [ "Lotto", "Piazzale Lotto" ],
+      "nota": "Piazza con incrocio a più rami: dare sempre precedenza secondo la segnaletica.",
+      "descrizione": "Dal viale si arriva infine a questo punto, che segna la conclusione del percorso."
+    }
+  ]
+}
